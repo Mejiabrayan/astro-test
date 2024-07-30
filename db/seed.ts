@@ -11,5 +11,9 @@ export default async function seed() {
       author: 'Brayan',
       body: 'This is another comment',
     },
+    {
+      author: 'Brayan',
+      body: 'This is another comment',
+    },
   ]);
 }

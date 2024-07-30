@@ -4,6 +4,7 @@ const Comment = defineTable({
   columns: {
     author: column.text(),
     body: column.text(),
+    published: column.number(),
   }
 })
 
